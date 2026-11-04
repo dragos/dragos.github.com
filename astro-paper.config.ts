@@ -3,8 +3,8 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://iulidragos.com/",
-    title: "Iulian, not Lulian",
-    description: "Scala developer geek, Spark contributor",
+    title: "Iulian (not Lulian)",
+    description: "Compiler geek",
     author: "Iulian Dragos",
     profile: "https://iulidragos.com/about/",
     lang: "en",
